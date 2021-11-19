@@ -1,0 +1,25 @@
+#change_color {
+  width: 166px;
+  height: 52px;
+  border: 1px solid whitesmoke;
+  border-radius: 5px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: whitesmoke;
+}
+#hex_code {
+  font-size: 550%;
+  text-align: center;
+}
+#btn {
+  text-align: center;
+}
+body {
+  background-color: black;
+}
+h2{
+  color: whitesmoke;
+  margin-left: 440px;
+  text-decoration-line: underline;
+  font-size: 35px;
+}
